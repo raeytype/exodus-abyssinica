@@ -29,3 +29,7 @@ See the [FONTLOG.txt](FONTLOG.txt) for a list of the specific letter transforms 
 ## Notes
 Some Latin letters were particulary difficult to create from Ethiopic letters. Noteably F, G, K, M, N, and R. These
 letters will likely be enhanced or redesigned entirely in the future.
+
+## The Exodus Alphabet
+
+<img src="tests/Exodus-UpperAndLowercase.png"/>
