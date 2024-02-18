@@ -2,7 +2,7 @@
 An approximation of the typeface used on the cover of Bob Marley's 1977 Exodus album,
 created in celebration with the release of the 2024 film “One Love”.
 
-<img src="tests/Exoduds-Album-Font-Compared.pnt"/>
+<img src="tests/Exodus-Album-Font-Compared.png"/>
 
 The Exodus font is derived from the [Abyssinica SIL](https://software.sil.org/abyssinica/download/) font
 whose Ethiopic (Geʻez) letters have been used as a basis for the Latin (English) letters of the font.
