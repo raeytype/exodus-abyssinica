@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni129F.gumuz1" format="2">
+  <advance width="1346"/>
+  <anchor x="669" y="1586" name="U"/>
+  <outline>
+    <component base="uni129F.gumuz"/>
+  </outline>
+</glyph>

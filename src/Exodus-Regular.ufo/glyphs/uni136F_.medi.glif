@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni136F.medi" format="2">
+  <advance width="1145"/>
+  <outline>
+    <component base="uni136F.nobar"/>
+    <contour>
+      <point x="0" y="1227" type="line"/>
+      <point x="0" y="1158" type="line"/>
+      <point x="1181" y="1158" type="line"/>
+      <point x="1181" y="1227" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-163" type="line"/>
+      <point x="0" y="-232" type="line"/>
+      <point x="1181" y="-232" type="line"/>
+      <point x="1181" y="-163" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1374.medi" format="2">
+  <advance width="1366"/>
+  <outline>
+    <component base="uni1374.nobar"/>
+    <contour>
+      <point x="0" y="1227" type="line"/>
+      <point x="0" y="1158" type="line"/>
+      <point x="1391" y="1158" type="line"/>
+      <point x="1391" y="1227" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-163" type="line"/>
+      <point x="0" y="-232" type="line"/>
+      <point x="1391" y="-232" type="line"/>
+      <point x="1391" y="-163" type="line"/>
+    </contour>
+  </outline>
+</glyph>

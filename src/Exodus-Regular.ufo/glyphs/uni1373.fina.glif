@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1373.fina" format="2">
+  <advance width="1309"/>
+  <outline>
+    <component base="uni1373.nobar"/>
+    <contour>
+      <point x="0" y="-232" type="line"/>
+      <point x="931" y="-232" type="line"/>
+      <point x="948" y="-309"/>
+      <point x="1010" y="-358"/>
+      <point x="1081" y="-358" type="curve" smooth="yes"/>
+      <point x="1118" y="-358"/>
+      <point x="1167" y="-346"/>
+      <point x="1197" y="-323" type="curve"/>
+      <point x="1171" y="-285"/>
+      <point x="1158" y="-209"/>
+      <point x="1154" y="-163" type="curve"/>
+      <point x="0" y="-163" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="1158" type="line"/>
+      <point x="931" y="1158" type="line"/>
+      <point x="948" y="1081"/>
+      <point x="1010" y="1032"/>
+      <point x="1081" y="1032" type="curve" smooth="yes"/>
+      <point x="1118" y="1032"/>
+      <point x="1167" y="1044"/>
+      <point x="1197" y="1067" type="curve"/>
+      <point x="1171" y="1105"/>
+      <point x="1158" y="1181"/>
+      <point x="1154" y="1227" type="curve"/>
+      <point x="0" y="1227" type="line"/>
+    </contour>
+  </outline>
+</glyph>
