@@ -63,12 +63,9 @@
     </dict>
   </dict>
   <key>com.schriftgestaltung.Glyphs.fontUserData</key>
-  <dict>
-    <key>com.schriftgestaltung.Glyphs.groupsNotInFeature</key>
-    <array/>
-  </dict>
+  
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3077</string>
+  <real>3077</real>
   <key>com.schriftgestaltung.customParameter.GSFont.Axis Mappings</key>
   <dict>
     <key>XXXX</key>
@@ -96,29 +93,29 @@
                     /uni1369.nobar/uni136A.nobar/uni136B.nobar/uni136C.nobar/uni136D.nobar/uni136E.nobar/uni136F.nobar/uni1370.nobar/uni1371.nobar/uni1372.nobar/uni1373.nobar/uni1374.nobar/uni1375.nobar/uni1376.nobar/uni1377.nobar/uni1378.nobar/uni1379.nobar/uni137A.nobar/uni137B.nobar/uni137C.nobar</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
-  <true/>
+  <real>1</real>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
-  <true/>
+  <real>1</real>
   <key>com.schriftgestaltung.customParameter.GSFont.uniqueID</key>
-  <string>SIL International: Abyssinica SIL Regular: 2024</string>
+  <real>0</real>
   <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
-  <integer>0</integer>
+  <real>0</real>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>
-  <integer>0</integer>
+  <real>0</real>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue1</key>
-  <integer>0</integer>
+  <real>0</real>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue2</key>
-  <integer>0</integer>
+  <real>0</real>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue3</key>
-  <integer>0</integer>
+  <real>0</real>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.iconName</key>
-  <string></string>
+  <real>0</real>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>
-  <integer>400</integer>
+  <real>400</real>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
-  <integer>100</integer>
+  <real>100</real>
   <key>com.schriftgestaltung.fontMasterOrder</key>
-  <integer>0</integer>
+  <real>0</real>
   <key>com.schriftgestaltung.glyphOrder</key>
   <array>
     <string>.notdef</string>
@@ -1178,15 +1175,15 @@
     <string>u1E7FE</string>
   </array>
   <key>com.schriftgestaltung.keyboardIncrement</key>
-  <integer>1</integer>
+  <real>1</real>
   <key>com.schriftgestaltung.weight</key>
-  <string>Regular</string>
+  <real>0</real>
   <key>com.schriftgestaltung.weightValue</key>
-  <integer>400</integer>
+  <real>400</real>
   <key>com.schriftgestaltung.width</key>
-  <string>Regular</string>
+  <real>0</real>
   <key>com.schriftgestaltung.widthValue</key>
-  <integer>100</integer>
+  <real>100</real>
   <key>public.postscriptNames</key>
   <dict>
     <key>Delta</key>

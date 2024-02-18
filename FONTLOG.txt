@@ -12,14 +12,14 @@ Uppercase letters have been created with the following follwing transforms:
 A - አ 102.93%
 B - ፪ 132.6% (inner body)
 C - ር 114.65%
-D - ፍ 128.2%, 180°
-E - ሕ  0%, 90°, right leg of ሒ  replaces left leg of ሕ
-F - ፭ 102%, horizontal axis mirror flip, stretch of lower vertical stroke
+D - ፍ 128.2%, 180°, disconnect and stretch central stroke.
+E - ሕ  0%, 90°, right leg of ሒ  replaces left leg of ሕ.
+F - ፭ 102%, horizontal axis mirror flip, stretch of lower vertical stroke.
 G - ፍ 115.9%, 
 H - ዝ 110.9%
 I - ነ 104.2%
-J - ገ 113.4%, horizontal axis mirror flip
-K - ፳ 122.8%, 86.5°, strecth lower leg
+J - ገ 113.4%, horizontal axis mirror flip.
+K - ፳ 122.8%, 86.5°, strecth lower leg.
 L - ረ 111.8%
 M - ጨ  129.25%
 N - ፴ 138.1%
@@ -30,7 +30,7 @@ R - ጸ 115.8%
 S - ያ 105.8%
 T - ፕ 120.4%
 U - ህ 114.3%
-V - ለ 106.1, 180°, vertical axis mirror flip
+V - ለ 106.1, 180°, vertical axis mirror flip.
 W - ጢ  140%, 180°
 X - ት 106%, -135°
 Y - ሃ 107.26%

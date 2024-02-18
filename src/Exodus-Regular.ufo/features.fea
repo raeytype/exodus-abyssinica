@@ -1535,12 +1535,10 @@ feature locl {
     lookup Cv20_nya;
     lookup Cv21_nywa_1;
 } locl;
-
 feature ccmp {
     # Glyph Composition/Decomposition
     lookup FontCheck;
 } ccmp;
-
 feature cv01 {
     # Punctuation
         cvParameters {
@@ -1556,7 +1554,6 @@ feature cv01 {
 
     sub @cno_punct by @c_punct;
 } cv01;
-
 feature cv02 {
     # Ethiopic digits
         cvParameters {
@@ -1572,7 +1569,6 @@ feature cv02 {
 
     lookup DigitAlternates;
 } cv02;
-
 feature cv04 {
     # Mwa alternates
         cvParameters {
@@ -1592,7 +1588,6 @@ feature cv04 {
 
     sub uni121F from [uni121F.cohen1 uni121F.cohen2];
 } cv04;
-
 feature cv05 {
     # Rwa alternate
         cvParameters {
@@ -1608,7 +1603,6 @@ feature cv05 {
 
     sub @cno_cohen3 by @c_cohen3;
 } cv05;
-
 feature cv17 {
     # Xoa alternates
         cvParameters {
@@ -1624,7 +1618,6 @@ feature cv17 {
 
     sub @cno_alt3 by @c_alt3;
 } cv17;
-
 feature cv18 {
     # Xwa alternates
         cvParameters {
@@ -1640,7 +1633,6 @@ feature cv18 {
 
     sub @cno_handwriting by @c_handwriting;
 } cv18;
-
 feature cv19 {
     # Nwa alternates
         cvParameters {
@@ -1656,7 +1648,6 @@ feature cv19 {
 
     sub @cno_cohen0 by @c_cohen0;
 } cv19;
-
 feature cv20 {
     # Nya alternates
         cvParameters {
@@ -1673,7 +1664,6 @@ feature cv20 {
     lookup Cv20_nya;
     # default for guk/GMZ
 } cv20;
-
 feature cv21 {
     # Nywa alternates
         cvParameters {
@@ -1693,7 +1683,6 @@ feature cv21 {
 
     sub uni129F from [uni129F.gumuz1 uni129F.cohen8];
 } cv21;
-
 feature cv26 {
     # Kxwaa alternate
         cvParameters {
@@ -1737,7 +1726,6 @@ feature cv31 {
     sub uni12E5 from [uni12E5.cohen6 uni12E5.chaine];
     sub uni12E6 from [uni12E6.cohen6 uni12E6.chaine];
 } cv31;
-
 feature cv32 {
     # Dda alternates
         cvParameters {
@@ -1753,7 +1741,6 @@ feature cv32 {
 
     sub @cno_oromo by @c_oromo;
 } cv32;
-
 feature cv40 {
     # Gwaa alternates
         cvParameters {
@@ -1773,7 +1760,6 @@ feature cv40 {
 
     sub uni1313 from [uni1313.seb0 uni1313.alonestokes];
 } cv40;
-
 feature cv41 {
     # Gga alternates
         cvParameters {
@@ -1790,7 +1776,6 @@ feature cv41 {
     lookup Cv41_gga;
     # default for BIL
 } cv41;
-
 feature cv42 {
     # Ggwaa alternate
         cvParameters {
@@ -1806,7 +1791,6 @@ feature cv42 {
 
     lookup Cv42_ggwaa;
 } cv42;
-
 feature cv45 {
     # Phe alternate
         cvParameters {
@@ -1822,7 +1806,6 @@ feature cv45 {
 
     sub @cno_praetorius by @c_praetorius;
 } cv45;
-
 feature cv46 {
     # Tswa alternate
         cvParameters {
@@ -1838,7 +1821,6 @@ feature cv46 {
 
     sub @cno_oldstyle by @c_oldstyle;
 } cv46;
-
 feature cv48 {
     # Fwa alternate
         cvParameters {
@@ -1858,7 +1840,6 @@ feature cv48 {
 
     sub uni134F from [uni134F.cohen4 uni134F.cohen5];
 } cv48;
-
 feature cv49 {
     # Rya alternate
         cvParameters {
@@ -1874,7 +1855,6 @@ feature cv49 {
 
     sub @cno_ala1 by @c_ala1;
 } cv49;
-
 feature cv50 {
     # Mya alternate
         cvParameters {
@@ -1890,7 +1870,6 @@ feature cv50 {
 
     sub @cno_ala2 by @c_ala2;
 } cv50;
-
 feature cv60 {
     # Mwi alternates
         cvParameters {
@@ -1910,7 +1889,6 @@ feature cv60 {
 
     sub uni1381 from [uni1381.seb5 uni1381.sebLes1];
 } cv60;
-
 feature cv61 {
     # Mwe alternates
         cvParameters {
@@ -1930,7 +1908,6 @@ feature cv61 {
 
     sub uni1383 from [uni1383.seb4 uni1383.sebLes4];
 } cv61;
-
 feature cv62 {
     # Bwe alternate
         cvParameters {
@@ -1946,7 +1923,6 @@ feature cv62 {
 
     sub @cno_sebLes2 by @c_sebLes2;
 } cv62;
-
 feature cv63 {
     # Fwee alternate
         cvParameters {
@@ -1962,7 +1938,6 @@ feature cv63 {
 
     sub @cno_trad by @c_trad;
 } cv63;
-
 feature cv64 {
     # Fwe alternate
         cvParameters {
@@ -1978,7 +1953,6 @@ feature cv64 {
 
     sub @cno_sebLes3 by @c_sebLes3;
 } cv64;
-
 feature cv65 {
     # Pwe alternate
         cvParameters {
@@ -1994,7 +1968,6 @@ feature cv65 {
 
     sub @cno_sebLes5 by @c_sebLes5;
 } cv65;
-
 feature cv70 {
     # Ggwa alternate
         cvParameters {
@@ -2010,7 +1983,6 @@ feature cv70 {
 
     lookup Cv70_ggwa;
 } cv70;
-
 feature cv80 {
     # 3rd-form alternates
         cvParameters {
@@ -2026,7 +1998,6 @@ feature cv80 {
 
     lookup Cv80_3rd;
 } cv80;
-
 feature cv85 {
     # 6th-form alternates
         cvParameters {
@@ -2049,7 +2020,6 @@ feature cv85 {
 feature kern {
     lookup PairKerning;
 } kern;
-
 feature mark {
     lookup AttachMarks;
 } mark;

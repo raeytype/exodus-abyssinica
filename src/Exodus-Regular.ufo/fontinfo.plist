@@ -25,16 +25,6 @@ with Reserved Font Names: &quot;Exodus&quot;, and &quot;Exodus Regular&quot;.</s
     <key>y</key>
     <integer>512</integer>
   </dict>
-  <dict>
-    <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>m</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <integer>512</integer>
-  </dict>
   </array>
   <key>italicAngle</key>
   <integer>0</integer>
@@ -135,8 +125,6 @@ THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, E
   <string>Exodus</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
-  <key>openTypeNameUniqueID</key>
-  <string>SIL International: Abyssinica SIL Regular: 2023</string>
   <key>openTypeNameVersion</key>
   <string>Version 1.000</string>
   <key>openTypeOS2CodePageRanges</key>
