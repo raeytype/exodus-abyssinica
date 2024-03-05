@@ -7,7 +7,7 @@ created in celebration with the release of the 2024 film “One Love”.
 The Exodus font is derived from the [Abyssinica SIL](https://software.sil.org/abyssinica/download/) font
 whose Ethiopic (Geʻez) letters have been used as a basis for the Latin (English) letters of the font.
 
-<img src="images/Neville-Garrick-400x400.jpg"/>  [Neville Garrick](https://en.wikipedia.org/wiki/Neville_Garrick) 
+<img src="images/Neville-Garrick-150x150.jpg"/>  [Neville Garrick](https://en.wikipedia.org/wiki/Neville_Garrick) 
 was the artist behind many of Bob Marley's albums and came up with the idea and design for the Exodus
 album cover. We hope this font will help continue to carry his memory onward..
 
