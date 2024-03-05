@@ -2,10 +2,14 @@
 An approximation of the typeface used on the cover of Bob Marley's 1977 [Exodus album](https://en.wikipedia.org/wiki/Exodus_(Bob_Marley_and_the_Wailers_album)),
 created in celebration with the release of the 2024 film “One Love”.
 
-<img src="tests/Exodus-Album-Font-Compared.png"/>
+<img src="images/Exodus-Album-Font-Compared.png"/>
 
 The Exodus font is derived from the [Abyssinica SIL](https://software.sil.org/abyssinica/download/) font
 whose Ethiopic (Geʻez) letters have been used as a basis for the Latin (English) letters of the font.
+
+<img src="images/Neville-Garrick-400x400.jpg"/>  [Neville Garrick](https://en.wikipedia.org/wiki/Neville_Garrick) 
+was the artist behind many of Bob Marley's albums and came up with the idea and design for the Exodus
+album cover. We hope this font will help continue to carry his memory onward..
 
 ## Design Principles
 
@@ -32,4 +36,4 @@ letters will likely be enhanced or redesigned entirely in the future.
 
 ## The Exodus Alphabet
 
-<img src="tests/Exodus-UpperAndLowercase.png"/>
+<img src="images/Exodus-UpperAndLowercase.png"/>
