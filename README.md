@@ -10,8 +10,8 @@ whose Ethiopic (Geʻez) letters have been used as a basis for the Latin (English
 <img src="images/Neville-Garrick-150x150.jpg"/> 
 
 [Neville Garrick](https://en.wikipedia.org/wiki/Neville_Garrick) 
-was the artist behind many of Bob Marley's album covers and came up with the idea and design for the Exodus
-album cover. We hope this font will help continue to carry his memory onward.
+was the artist behind many of Bob Marley's album covers and was the creative mind behind
+the Exodus cover design. We hope this font will help continue to carry his memory onward.
 
 ## Design Principles
 
